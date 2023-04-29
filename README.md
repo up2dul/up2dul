@@ -1,10 +1,10 @@
-<p align="center">
+<h3 align="center">
   <a href="https://up2dul.com" target="blank">Site</a> •
   <a href="https://linkedin.com/in/abdulmalikk" target="blank">LinkedIn</a> •
   <a href="https://fb.com/up2dul" target="blank">Facebook</a> •
   <a href="https://instagram.com/unrspgt" target="blank">Instagram</a> •
   <a href="https://hashnode.com/@up2dul" target="blank">Hashnode</a>
-</p>
+</h3>
 
 [![@up2dul's Codewars badges](https://www.codewars.com/users/up2dul/badges/large)](https://www.codewars.com/users/up2dul)
 
