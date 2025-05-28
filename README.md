@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋</h1>
   <samp>
+    <a href="https://gist.github.com/up2dul">gist</a> — 
     <a href="mailto:hello@up2dul.dev">email</a> — 
     <a href="https://up2dul.dev">personal site</a> —  
     <a href="https://linkedin.com/in/up2dul">linkedin</a> — 
